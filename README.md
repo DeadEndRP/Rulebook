@@ -9,6 +9,31 @@
 
 # Obligations:
 
-By applying and agreeing to our server rules, you agree to the below and listed rules. Any breaking of said rules may result in punishments such as: Timed or Permanent ban from both the in-game whitelist and discord server. In our community we run a three strike system, earn three strikes and you will be punished, strikes are handed out and dealt with by the staff team.
+By applying and agreeing to our server rules, you agree to the below listed rules. Any breaking of said rules may result in punishments such as: Timed or Permanent ban from both the in-game whitelist and discord server. In our community we run a three strike system, earn three strikes and you will be punished, strikes are handed out and dealt with by the staff team.
 
 ---------------------------------------------------------------------------------------------------------------------
+
+![JulesVigil](https://github.com/DeadEndRP/Rulebook/blob/main/Images/JulesVigil.png)
+
+# GENERAL SERVER RULES
+
+### 1.1 No Metagaming
+- Metagaming is the use of out-of-character information that your in-game character would not know and using that information to determine your character's action to gain an advantage.
+- Metagaming includes the following:
+  - Knowing a character’s name because you can see it in chat box. 
+  - Knowing the exact location and names of other characters because your previous dead character knew them. 
+  - Using/sharing screenshots of in-game locations to use and gain an advtange over other players, such as: Where to attack their base.
+  - Using shared information in VCs that your character doesn’t know about IC and applying it to your characters actions or gameplay to reach a conclusion in-character.
+
+### 1.2 No Powergaming
+  - Powergaming is the act of using an in-game mechanic, any external information, or a roleplay concept to favor your own character or story, giving yourself an unfair and unrealistic advantage to perform.
+  - Please never force actions on other players, that would make them unable to move, speak or prevent the other player to interact, react or fairly react or counter to.
+  - Powergaming includes actions:
+     - Forcing a specific outcome on another player.
+        - Example: "/me pulls out his knife and stabs the other person in the heart, killing them."
+     - Being completly careless or fearless with your character in a potentially scary situiation.
+     - Focusing specifically on skill grinding to "power build" to give you an adnvatage in RP situations.
+     - Pushing too many actions for the other player to react to.
+        - Give players ample amount of time to react to your actions.
+      
+# ROLEPLAY RULES
