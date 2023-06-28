@@ -39,6 +39,14 @@ By applying and agreeing to our server rules, you agree to the below listed rule
 # ROLEPLAY RULES
 
 ### 2.1 Communiaction
+---------------------------------------------------------------------------------------------------------------------
+# Theft/Robbery Rules
+- Example: You are driving down the street and you see someone on the road, they could be a potential victim and you decide to attempt to rob them. 
+  - You cannot steal from the same individual more than once in 24 hours.
+  - You cannot steal personal/trinket items.
+  - You cannot leave a person without clothing or defenseless.
+
+### 3.1 Communiaction
 
 ---------------------------------------------------------------------------------------------------------------------
 ![Images5](https://github.com/DeadEndRP/Rulebook/blob/main/Images/Image5.png)
@@ -64,17 +72,19 @@ A valid reason to start PVP is not just your character's background. You must ha
 For example: What purpose does it serve? Why is there conflict? What has led to cause violence to occur?
 
 **Unacceptable reason for PvP**
+-----------------------------
 - "This person flipped me off and now I wanna kill them."
 
 **Acceptable reasons for PvP**
+-----------------------------
 - "An individual is continuing to be aggressive despite warnings to stop."
 - "A person has, in text roleplay, used violence against my character or someone they care about."
 
-### 3.1 KOS (Kill On Sight) is NOT allowed and never will be.
+### 4.1 KOS (Kill On Sight) is NOT allowed and never will be.
 - Before engaging in PvP, you must make a meaningful and realistic scene and an acceptable escalation reason is needed. 
 - You cannot shoot anyone just because they denied PvP or aren't handing over their stuff, if you are caught KOS anyone you will be given a strike.
 
-### 3.2  All players must give a Conditional PVP WARNING prior to engaging in PVP
+### 4.2  All players must give a Conditional PVP WARNING prior to engaging in PVP
 Conditional PVP Warning is a warning to another player that PVP MAY HAPPEN depending on the escalation or outcome of a scene.
 - If a situation has escalated to possible violence, you MUST give a Conditional PVP Warning by using /looc in the text chat to let the other player know PvP is active BEFORE engaging in any PVP.
 - The person who tells the other player PVP is active must also receive a reply back in OOC form, BEFORE they can escalate the situation further and engage in PVP. 
@@ -96,34 +106,33 @@ Prior to  weapons being drawn and aimed at one another or threats being made, a 
 
 From this point the players may engage if they so choose to.
 
-### 3.3 Let others know if you have hidden teammates.
-If a situation involves multiple players initiating PVP, with one roleplaying a sniper, when letting the other player know that PVP is active they must also tell them they have a friend with them who is a sniper. The player who is a sniper cannot engage in PVP until they see their teammate engaging in PVP. 
-- For example:
-  - Player 1 “/looc PVP is on and it may happen, I have a teammate who is a sniper. Perma?.”
-  - Player 2 "- “/looc okay, my pvp is active too, No perma.”
+### 4.3 Let others know if you have hidden teammates.
+- If a situation involves multiple players initiating PVP, with one roleplaying a sniper, when letting the other player know that PVP is active they must also tell them they have a friend with them who is a sniper. The player who is a sniper cannot engage in PVP until they see their teammate engaging in PVP. 
+  - For example:
+    - Player 1 “/looc PVP is on and it may happen, I have a teammate who is a sniper. Perma?.”
+    - Player 2 "- “/looc okay, my pvp is active too, No perma.”
 
 - We heavily encourage players to not spam shoot someone, if someone is on the ground we encourage both sides to realistically play out the scene without finishing each other off, by roleplaying injuries. However this isn't enforced, it is just heavily encouraged.
 - ALWAYS SCREENSHOT PVP warning with the chat box visible. If not, admins cannot help you if things go wrong.
 
 - Remember there are other ways to deal with players than having to shoot them, you may also opt to; Demand they drop their weapons/bags, take them hostage for ransom or Torture (Please follow our Torutre rules before doing this!) 
 
-- For example: 
-  - "Drop your guns and leave," or "Never come back here again."
-  - “Get in my truck. I'm taking you hostage.” or “Hands behind your back and walk forward.”
+  - For example: 
+    - "Drop your guns and leave," or "Never come back here again."
+    - “Get in my truck. I'm taking you hostage.” or “Hands behind your back and walk forward.”
    
 -  Staff and NPC characters are also subject to these rules.
 - Bystanders cannot not attempt to join into the middle of a PvP scenario such as a firefight if they were not involved in any RP escalation beforehand. Project Zomboid PvP is not the best and mistakes can be made!
 
-### 3.4 During PvP  
+### 4.4 During PvP  
 Under no circumstances, Explosives are NOT allowed in PvP.
-Explosives have a high chance of causing widespread damage, including to non-consenting players.
-Explosives are too powerful and will not result in a fair fight.
+Explosives have a high chance of causing widespread damage, Explosives are too powerful and will not result in a fair fight.
 
 - If you die via PvP this does not mean you are Permadeath unless you have either: 
 Agreed to permadeath.
 Lost your choice to permadeath following our “Life for Life Rule”
 
-### 3.5 After PVP 
+### 4.5 After PVP 
 
 - Winner in PVP
 
