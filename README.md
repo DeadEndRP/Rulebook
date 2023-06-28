@@ -41,7 +41,7 @@ By applying and agreeing to our server rules, you agree to the below listed rule
 ### 2.1 Communiaction
 
 ---------------------------------------------------------------------------------------------------------------------
-![JulesVigil](https://github.com/DeadEndRP/Rulebook/blob/main/Images/JulesVigil.png)
+![Images5](https://github.com/DeadEndRP/Rulebook/blob/main/Images/Image5.png)
 # PVP RULES
 
 This is NOT a PvP-oriented server, but PvP is allowed as long as it makes sense for your character and that you have a VALID reason to do so.**
